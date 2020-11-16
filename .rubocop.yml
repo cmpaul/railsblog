@@ -1,0 +1,5 @@
+AllCops:
+  NewCops: disable
+
+Layout/EndOfLine:
+  EnforcedStyle: lf
